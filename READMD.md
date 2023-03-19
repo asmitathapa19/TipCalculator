@@ -1,0 +1,1 @@
+![git](TipCalculator.gif)
